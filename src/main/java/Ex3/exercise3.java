@@ -14,7 +14,3 @@ public class exercise3 {
     }
 }
 
-@FunctionalInterface
-interface Operation {
-    float operacio();
-}

@@ -13,5 +13,6 @@ public class exercise1 {
                 .collect(Collectors.toList());
 
         System.out.println("Names that start with 'A' and have 3 letters: " + result);
+        names.forEach(System.out::println);
     }
 }
