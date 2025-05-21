@@ -109,7 +109,9 @@ Clone the Repository (Optional):
 
 
 git clone https://github.com/YourUsername/S1.09.JavaStreams.Lv1.git
+
 cd S1.09.JavaStreams.Lv1/
+
 Open the Project in IntelliJ:
 
 Go to File → Open
